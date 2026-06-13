@@ -5,7 +5,7 @@ sudo apt update
 sudo apt install libfuse2 libapr1 libaprutil1 libasound2t64 libglib2.0-0 libglu1-mesa
 sudo apt install libxcb-cursor0 libxcb-icccm4 libxcb-image0 libxcb-keysyms1 libxcb-render-util0 libxcb-xinerama0 libxcb-xinput0 libxkbcommon-x11-0 libxcb-randr0 libxcb-shape0 libxcb-xfixes0
 unzip DaVinci_Resolve_*_Linux.zip
-sudo SKIP_PACKAGE_CHECK=1 ./DaVinci_Resolve_*_Linux.run -i
+SKIP_PACKAGE_CHECK=1 ./DaVinci_Resolve_*_Linux.run -i
 
 #fix
 
