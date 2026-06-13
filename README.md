@@ -2,6 +2,8 @@
 
 Simple installation scripts for running **DaVinci Resolve** on various Linux distributions.
 
+[![alt text](https://img.youtube.com/vi/GQA6GoDmIhQ/maxresdefault.jpg)](https://youtu.be/GQA6GoDmIhQ)
+
 ## Currently Supported
 
 * Ubuntu 26.04 LTS (NVIDIA GPU / AMD GPU)
