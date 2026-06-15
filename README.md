@@ -4,9 +4,12 @@ Simple installation scripts for running **DaVinci Resolve** on various Linux dis
 
 [![alt text](https://img.youtube.com/vi/GQA6GoDmIhQ/maxresdefault.jpg)](https://youtu.be/GQA6GoDmIhQ)
 
+[![alt text](https://img.youtube.com/vi/9QLmAYXlUWc/maxresdefault.jpg)](https://youtu.be/9QLmAYXlUWc)
+
 ## Currently Supported
 
 * Ubuntu 26.04 LTS (NVIDIA GPU / AMD GPU)
+* Arch / Omarchy Linux ( NVIDIA GPU / AMD GPU )
 
 Additional distributions and GPU configurations will be added over time.
 
